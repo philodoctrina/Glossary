@@ -1,0 +1,29 @@
+% wreak is searched, no results, didn't input
+word: wreak
+defn: 
+
+% wreak is searched and a definition is assigned
+word: wreak
+defn: cause (a large amount of damage or harm)
+
+% wreak is searched and a definition returns
+word: wreak
+defn: cause (a large amount of damage or harm)
+
+% entered edit mode, deleted the word wreak
+word: ^
+edit: wreak
+defn: 
+
+% the original definition is reassigned
+edit: 
+word: wreak
+defn: cause (a large amount of damage or harm)
+
+% entered edit mode to redefine wreak
+word: ^
+edit: wreak
+defn:  to give free play or course to (malevolent feeling)
+
+# exited the program
+word: 
